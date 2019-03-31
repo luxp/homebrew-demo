@@ -1,4 +1,4 @@
-class Calc < Formula
+class Demo < Formula
   desc "Arbitrary precision calculator"
   homepage "http://www.isthe.com/chongo/tech/comp/calc/"
   url "https://downloads.sourceforge.net/project/calc/calc/2.12.7.1/calc-2.12.7.1.tar.bz2"
